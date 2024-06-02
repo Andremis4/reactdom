@@ -7,7 +7,7 @@ export default function About() {
   return (
     <div>
       <NavBar></NavBar>
-      <h2 className='text-center mt-3'>Cuentanos, en que te podemos ayudar? </h2>
+      <h2 className='text-center mt-3'>Cuentanos, en que te podemos ayudar? ❤ </h2>
       <div className='formulario'> 
       <Form>
       <Form.Group className="mb-3" controlId="formBasicEmail">
